@@ -57,7 +57,7 @@
 
 ## Welcome
 
-**Congratulations** for deciding to participate in a **_30 days of Python_** programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concepts of programming. In the end of the challenge you will get a **_30DaysOfPython_** programming challenge certificate.
+**Congratulations** for deciding to participate in a **_  Learn Python_** programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concepts of programming. In the end of the challenge you will get a **_30DaysOfPython_** programming challenge certificate.
 
 [Join the telegram channel to get help](https://t.me/ThirtyDaysOfPython)
 
@@ -166,7 +166,7 @@ Before we move on to the next section, lets practice more on the python interact
 
 ### Installing Visual Studio Code
 
-The python interactive shell is good to try and test small script codes but it won't be for a big project. In real work environment, developers use different code editors to write codes. In this 30 days of python programming challenge we will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode and I would recommend to [download](https://code.visualstudio.com/) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.
+The python interactive shell is good to try and test small script codes but it won't be for a big project. In real work environment, developers use different code editors to write codes. In this   Learn python programming challenge we will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode and I would recommend to [download](https://code.visualstudio.com/) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.
 
 [![Visual Studio Code](./images/vscode.png)](https://code.visualstudio.com/)
 
@@ -368,7 +368,7 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
    - Your name
    - Your family name
    - Your country
-   - I am enjoying 30 days of python
+   - I am enjoying   Learn python
 4. Check the data types of the following data:
    - 10
    - 9.8
@@ -606,7 +606,7 @@ Numbers are python data types.
 ## 💻 Exercises - Day 2
 
 1. Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file name called variables.py
-2. Writ a python comment saying 'Day 2: 30 Days of python programming'
+2. Writ a python comment saying 'Day 2:   Learn python programming'
 3. Declare a first name variable and assign a value to it
 4. Declare a last name variable and assign a value to it
 5. Declare a full name variable and assign a value to it

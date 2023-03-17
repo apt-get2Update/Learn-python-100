@@ -1,4 +1,4 @@
-# 🐍 30 Days Of Python 
+# 🐍   Learn Python 
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
@@ -35,32 +35,16 @@
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='../images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
 
-<div align="center">
-  <h1> 30 Days Of Python: Day 1 - Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> Second Edition: July, 2021</small>
-  </sub>
-</div>
+
 
 
 [Day 2 >>](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [🐍 30 Days Of Python](#-30-days-of-python)
+- [🐍   Learn Python](#-30-days-of-python)
 - [📘 Day 1](#-day-1)
   - [환영합니다](#환영합니다)
   - [소개](#소개)
@@ -93,7 +77,7 @@
 
 ## 환영합니다
 
-_30 days of Python_에 참여하기로 결정하신 것을 **축하드립니다**. 이 챌린지에서는 Python 프로그래머가 되기 위해 필요한 모든 것과 프로그래밍의 전체 개념을 배우게 됩니다. 챌린지가 끝나면 _30DaysOfPython_프로그래밍 챌린지 인증서를 받게 됩니다.
+_  Learn Python_에 참여하기로 결정하신 것을 **축하드립니다**. 이 챌린지에서는 Python 프로그래머가 되기 위해 필요한 모든 것과 프로그래밍의 전체 개념을 배우게 됩니다. 챌린지가 끝나면 _30DaysOfPython_프로그래밍 챌린지 인증서를 받게 됩니다.
 
 챌린지에 적극적으로 참여하고 싶다면 [30DaysOfPython challenge](https://t.me/ThirtyDaysOfPython) 텔레그램 그룹에 가입할 수 있습니다. 
 
@@ -429,7 +413,7 @@ Python 파일을 실행하려면 아래 이미지를 확인하세요. Visual Stu
    - 이름
    - 가족 이름
    - 국가 이름
-   - I am enjoying 30 days of python
+   - I am enjoying   Learn python
 4. 다음 데이터의 데이터 유형을 확인하십시오.:
    - 10
    - 9.8

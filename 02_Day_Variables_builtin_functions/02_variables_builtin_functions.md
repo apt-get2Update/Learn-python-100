@@ -1,16 +1,6 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 2 - Variables, Builtin Functions</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
+  <h1> Learn Python: Day 2 - Variables, Builtin Functions</h1>
+   
 
 </div>
 
@@ -262,7 +252,7 @@ Number data types in Python:
 ### Exercises: Level 1
 
 1. Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
-2. Write a python comment saying 'Day 2: 30 Days of python programming'
+2. Write a python comment saying 'Day 2: Learn python programming'
 3. Declare a first name variable and assign a value to it
 4. Declare a last name variable and assign a value to it
 5. Declare a full name variable and assign a value to it

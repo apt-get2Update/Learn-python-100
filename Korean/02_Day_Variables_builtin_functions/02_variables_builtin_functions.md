@@ -1,16 +1,6 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 2 - 변수, 내장 함수</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
+  <h1>   Learn Python: Day 2 - 변수, 내장 함수</h1>
+   
 
 </div>
 
@@ -261,7 +251,7 @@ print(first_name_to_list)            # ['A', 's', 'a', 'b', 'e', 'n', 'e', 'h']
 ### Exercises: Level 1
 
 1. 30DaysOfPython 내에 day_2라는 폴더를 생성하세요. 그 폴더 내에 variables.py 라는 파일을 생성하세요.
-2. 'Day 2: 30 Days of python programming'이라는 파이썬 주석을 작성합니다.
+2. 'Day 2:   Learn python programming'이라는 파이썬 주석을 작성합니다.
 3. first name 변수를 선언하고 변수에 값을 할당합니다.
 4. last name 변수를 선언하고 변수에 값을 할당합니다.
 5. full name 변수를 선언하고 변수에 값을 할당합니다.

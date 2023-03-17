@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 26 - Python for web </h1>
+  <h1>   Learn Python: Day 26 - Python for web </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -250,12 +250,12 @@ app = Flask(__name__)
 @app.route('/') # this decorator create the home route
 def home ():
     techs = ['HTML', 'CSS', 'Flask', 'Python']
-    name = '30 Days Of Python Programming'
+    name = '  Learn Python Programming'
     return render_template('home.html', techs=techs, name = name, title = 'Home')
 
 @app.route('/about')
 def about():
-    name = '30 Days Of Python Programming'
+    name = '  Learn Python Programming'
     return render_template('about.html', name = name, title = 'About Us')
 
 @app.route('/post')
@@ -347,9 +347,9 @@ layout.html
       href="{{ url_for('static', filename='css/main.css') }}"
     />
     {% if title %}
-    <title>30 Days of Python - {{ title}}</title>
+    <title>  Learn Python - {{ title}}</title>
     {% else %}
-    <title>30 Days of Python</title>
+    <title>  Learn Python</title>
     {% endif %}
   </head>
 
@@ -412,7 +412,7 @@ about.html
 <div class="container">
   <h1>About {{name}}</h1>
   <p>
-    This is a 30 days of python programming challenge. If you have been coding
+    This is a   Learn python programming challenge. If you have been coding
     this far, you are awesome. Congratulations for the job well done!
   </p>
 </div>
@@ -457,12 +457,12 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 @app.route('/') # this decorator create the home route
 def home ():
     techs = ['HTML', 'CSS', 'Flask', 'Python']
-    name = '30 Days Of Python Programming'
+    name = '  Learn Python Programming'
     return render_template('home.html', techs=techs, name = name, title = 'Home')
 
 @app.route('/about')
 def about():
-    name = '30 Days Of Python Programming'
+    name = '  Learn Python Programming'
     return render_template('about.html', name = name, title = 'About Us')
 
 @app.route('/result')

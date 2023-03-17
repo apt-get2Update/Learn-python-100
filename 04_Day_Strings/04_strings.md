@@ -1,16 +1,6 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 4 - Strings</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
+  <h1> Learn Python: Day 4 - Strings</h1>
+   
 
 </div>
 
@@ -51,7 +41,7 @@ print(len(letter))          # 1
 greeting = 'Hello, World!'  # String could be made using a single or double quote,"Hello, World!"
 print(greeting)             # Hello, World!
 print(len(greeting))        # 13
-sentence = "I hope you are enjoying 30 days of Python Challenge"
+sentence = "I hope you are enjoying Learn Python Challenge"
 print(sentence)
 ```
 
@@ -60,13 +50,13 @@ Multiline string is created by using triple single (''') or triple double quotes
 ```py
 multiline_string = '''I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python.'''
+That is why I created Learn python.'''
 print(multiline_string)
 
 # Another way of doing the same thing
 multiline_string = """I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python."""
+That is why I created Learn python."""
 print(multiline_string)
 ```
 
@@ -525,7 +515,7 @@ print(challenge.swapcase())  # tHIRTY dAYS oF pYTHON
 challenge = 'thirty days of python'
 print(challenge.startswith('thirty')) # True
 
-challenge = '30 days of python'
+challenge = 'Learn python'
 print(challenge.startswith('thirty')) # False
 ```
 
