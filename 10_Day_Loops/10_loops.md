@@ -193,7 +193,7 @@ for iterator in dct:
 
 ```py
 person = {
-    'first_name':'Asabeneh',
+    'first_name':'apt-get2Update',
     'last_name':'Yetayeh',
     'age':250,
     'country':'Finland',
@@ -320,7 +320,7 @@ for x in y:
 
 ```py
 person = {
-    'first_name': 'Asabeneh',
+    'first_name': 'apt-get2Update',
     'last_name': 'Yetayeh',
     'age': 250,
     'country': 'Finland',
@@ -438,9 +438,9 @@ for number in range(6):
 
 ### Exercises: Level 3
 
-1. Go to the data folder and use the [countries.py](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries.py) file. Loop through the countries and extract all the countries containing the word _land_.
+1. Go to the data folder and use the [countries.py](  https://github.com/apt-get2Update/Learn-python-100/blob/master/data/countries.py) file. Loop through the countries and extract all the countries containing the word _land_.
 1. This is a fruit list, ['banana', 'orange', 'mango', 'lemon'] reverse the order using loop.
-2. Go to the data folder and use the [countries_data.py](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py) file. 
+2. Go to the data folder and use the [countries_data.py](  https://github.com/apt-get2Update/Learn-python-100/blob/master/data/countries-data.py) file. 
    1. What are the total number of languages in the data
    2. Find the ten most spoken languages from the data
    3. Find the 10 most populated countries in the world

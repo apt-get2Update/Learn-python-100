@@ -55,7 +55,7 @@ To import the file we use the _import_ keyword and the name of the file only.
 ```py
 # main.py file
 import mymodule
-print(mymodule.generate_full_name('Asabeneh', 'Yetayeh')) # Asabeneh Yetayeh
+print(mymodule.generate_full_name('apt-get2Update', 'Yetayeh')) # apt-get2Update Yetayeh
 ```
 
 ### Import Functions from a Module
@@ -125,13 +125,13 @@ print('Welcome {}. Enjoy  {} challenge!'.format(sys.argv[1], sys.argv[2]))
 Now to check how this script works I wrote in command line:
 
 ```sh
-python script.py Asabeneh 30DaysOfPython
+python script.py apt-get2Update 30DaysOfPython
 ```
 
 The result:
 
 ```sh
-Welcome Asabeneh. Enjoy  30DayOfPython challenge! 
+Welcome apt-get2Update. Enjoy  30DayOfPython challenge! 
 ```
 
 Some useful sys commands:

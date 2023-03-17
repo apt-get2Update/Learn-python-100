@@ -1,7 +1,7 @@
 
 # Variables in Python
 
-first_name = 'Asabeneh'
+first_name = 'apt-get2Update'
 last_name = 'Yetayeh'
 country = 'Finland'
 city = 'Helsinki'
@@ -9,7 +9,7 @@ age = 250
 is_married = True
 skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
 person_info = {
-    'firstname':'Asabeneh', 
+    'firstname':'apt-get2Update', 
     'lastname':'Yetayeh', 
     'country':'Finland',
     'city':'Helsinki'
@@ -30,7 +30,7 @@ print('Person information: ', person_info)
 
 # Declaring multiple variables in one line
 
-first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
+first_name, last_name, country, age, is_married = 'apt-get2Update', 'Yetayeh', 'Helsink', 250, True
 
 print(first_name, last_name, country, age, is_married)
 print('First name:', first_name)

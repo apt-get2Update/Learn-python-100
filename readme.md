@@ -275,7 +275,7 @@ A collection of one or more characters under a single or double quote. If a stri
 **Example:**
 
 ```py
-'Asabeneh'
+'apt-get2Update'
 'Finland'
 'Python'
 'I love teaching'
@@ -314,7 +314,7 @@ A Python dictionary object is an unordered collection of data in a key value pai
 
 ```py
 {
-'first_name':'Asabeneh',
+'first_name':'apt-get2Update',
 'last_name':'Yetayeh',
 'country':'Finland', 
 'age':250, 
@@ -330,7 +330,7 @@ A tuple is an ordered collection of different data types like list but tuples ca
 **Example:**
 
 ```py
-('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+('apt-get2Update', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
 ```
 
 ```py
@@ -381,9 +381,9 @@ print(3 // 2)            # Floor division operator(//)
 print(type(10))          # Int
 print(type(3.14))        # Float
 print(type(1 + 3j))      # Complex number
-print(type('Asabeneh'))  # String
+print(type('apt-get2Update'))  # String
 print(type([1, 2, 3]))   # List
-print(type({'name':'Asabeneh'})) # Dictionary
+print(type({'name':'apt-get2Update'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 ```
@@ -417,7 +417,7 @@ To run the python file check the image below. You can run the python file either
    - 9.8
    - 3.14
    - 4 - 4j
-   - ['Asabeneh', 'Python', 'Finland']
+   - ['apt-get2Update', 'Python', 'Finland']
    - Your name
    - Your family name
    - Your country

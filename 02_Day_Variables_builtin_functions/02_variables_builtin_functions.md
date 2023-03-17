@@ -91,7 +91,7 @@ _Example:_
 
 ```py
 # Variables in Python
-first_name = 'Asabeneh'
+first_name = 'apt-get2Update'
 last_name = 'Yetayeh'
 country = 'Finland'
 city = 'Helsinki'
@@ -99,7 +99,7 @@ age = 250
 is_married = True
 skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
 person_info = {
-   'firstname':'Asabeneh',
+   'firstname':'apt-get2Update',
    'lastname':'Yetayeh',
    'country':'Finland',
    'city':'Helsinki'
@@ -142,7 +142,7 @@ Multiple variables can also be declared in one line:
 **Example:**
 
 ```py
-first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
+first_name, last_name, country, age, is_married = 'apt-get2Update', 'Yetayeh', 'Helsink', 250, True
 
 print(first_name, last_name, country, age, is_married)
 print('First name:', first_name)
@@ -176,21 +176,21 @@ There are several data types in Python. To identify the data type we use the _ty
 # Different python data types
 # Let's declare variables with various data types
 
-first_name = 'Asabeneh'     # str
+first_name = 'apt-get2Update'     # str
 last_name = 'Yetayeh'       # str
 country = 'Finland'         # str
 city= 'Helsinki'            # str
 age = 250                   # int, it is not my real age, don't worry about it
 
 # Printing out types
-print(type('Asabeneh'))     # str
+print(type('apt-get2Update'))     # str
 print(type(first_name))     # str
 print(type(10))             # int
 print(type(3.14))           # float
 print(type(1 + 1j))         # complex
 print(type(True))           # bool
 print(type([1, 2, 3, 4]))     # list
-print(type({'name':'Asabeneh','age':250, 'is_married':250}))    # dict
+print(type({'name':'apt-get2Update','age':250, 'is_married':250}))    # dict
 print(type((1,2)))                                              # tuple
 print(type(zip([1,2],[3,4])))                                   # set
 ```
@@ -223,8 +223,8 @@ print('num_int', int(num_str))      # 10
 print('num_float', float(num_str))  # 10.6
 
 # str to list
-first_name = 'Asabeneh'
-print(first_name)               # 'Asabeneh'
+first_name = 'apt-get2Update'
+print(first_name)               # 'apt-get2Update'
 first_name_to_list = list(first_name)
 print(first_name_to_list)            # ['A', 's', 'a', 'b', 'e', 'n', 'e', 'h']
 ```

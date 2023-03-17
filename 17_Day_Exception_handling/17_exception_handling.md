@@ -1,14 +1,14 @@
 <div align="center">
   <h1>   Learn Python: Day 17 - Exception Handling </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/apt-get2Update/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/apt-get2Update">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/apt-get2Update?style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/apt-get2Update/" target="_blank">apt-get2Update Yetayeh</a><br>
   <small> Second Edition: July, 2021</small>
   </sub>
 </div>
@@ -93,7 +93,7 @@ except ZeroDivisionError:
 ```
 
 ```sh
-Enter your name:Asabeneh
+Enter your name:apt-get2Update
 Year you born:1920
 Type error occured
 ```
@@ -120,9 +120,9 @@ finally:
 ```
 
 ```sh
-Enter your name:Asabeneh
+Enter your name:apt-get2Update
 Year you born:1920
-You are Asabeneh. And your age is 99.
+You are apt-get2Update. And your age is 99.
 I usually run with the try block
 I alway run.
 ```
@@ -197,8 +197,8 @@ print(one, middle, last)      #  1 [2, 3, 4, 5, 6] 7
 ```py
 def unpacking_person_info(name, country, city, age):
     return f'{name} lives in {country}, {city}. He is {age} year old.'
-dct = {'name':'Asabeneh', 'country':'Finland', 'city':'Helsinki', 'age':250}
-print(unpacking_person_info(**dct)) # Asabeneh lives in Finland, Helsinki. He is 250 years old.
+dct = {'name':'apt-get2Update', 'country':'Finland', 'city':'Helsinki', 'age':250}
+print(unpacking_person_info(**dct)) # apt-get2Update lives in Finland, Helsinki. He is 250 years old.
 ```
 
 ### Packing
@@ -228,16 +228,16 @@ def packing_person_info(**kwargs):
         print("{key} = {kwargs[key]}")
     return kwargs
 
-print(packing_person_info(name="Asabeneh",
+print(packing_person_info(name="apt-get2Update",
       country="Finland", city="Helsinki", age=250))
 ```
 
 ```sh
-name = Asabeneh
+name = apt-get2Update
 country = Finland
 city = Helsinki
 age = 250
-{'name': 'Asabeneh', 'country': 'Finland', 'city': 'Helsinki', 'age': 250}
+{'name': 'apt-get2Update', 'country': 'Finland', 'city': 'Helsinki', 'age': 250}
 ```
 
 ## Spreading in Python

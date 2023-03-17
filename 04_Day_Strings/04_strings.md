@@ -65,11 +65,11 @@ print(multiline_string)
 We can connect strings together. Merging or connecting strings is called concatenation. See the example below:
 
 ```py
-first_name = 'Asabeneh'
+first_name = 'apt-get2Update'
 last_name = 'Yetayeh'
 space = ' '
 full_name = first_name  +  space + last_name
-print(full_name) # Asabeneh Yetayeh
+print(full_name) # apt-get2Update Yetayeh
 # Checking the length of a string using len() built-in function
 print(len(first_name))  # 8
 print(len(last_name))   # 7
@@ -125,7 +125,7 @@ The "%" operator is used to format a set of variables enclosed in a "tuple" (a f
 
 ```py
 # Strings only
-first_name = 'Asabeneh'
+first_name = 'apt-get2Update'
 last_name = 'Yetayeh'
 language = 'Python'
 formated_string = 'I am %s %s. I teach %s' %(first_name, last_name, language)
@@ -148,7 +148,7 @@ This formatting is introduced in Python version 3.
 
 ```py
 
-first_name = 'Asabeneh'
+first_name = 'apt-get2Update'
 last_name = 'Yetayeh'
 language = 'Python'
 formated_string = 'I am {} {}. I teach {}'.format(first_name, last_name, language)
@@ -334,13 +334,13 @@ print(challenge.rfind('th')) # 1
    More about string formatting check this [link](https://www.programiz.com/python-programming/methods/string/format)
 
 ```py
-first_name = 'Asabeneh'
+first_name = 'apt-get2Update'
 last_name = 'Yetayeh'
 age = 250
 job = 'teacher'
 country = 'Finland'
 sentence = 'I am {} {}. I am a {}. I am {} years old. I live in {}.'.format(first_name, last_name, age, job, country)
-print(sentence) # I am Asabeneh Yetayeh. I am 250 years old. I am a teacher. I live in Finland.
+print(sentence) # I am apt-get2Update Yetayeh. I am 250 years old. I am a teacher. I live in Finland.
 
 radius = 10
 pi = 3.14
@@ -565,7 +565,7 @@ print(challenge.startswith('thirty')) # False
 34. Use a tab escape sequence to write the following lines.
     ```py
     Name      Age     Country   City
-    Asabeneh  250     Finland   Helsinki
+    apt-get2Update  250     Finland   Helsinki
     ```
 35. Use the string formatting method to display the following:
 

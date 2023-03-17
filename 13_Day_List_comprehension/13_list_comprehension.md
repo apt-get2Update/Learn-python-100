@@ -188,9 +188,9 @@ print(two_power_of_five)  # 32
    ```
 6. Change the following list of lists to a list of concatenated strings:
    ```py
-   names = [[('Asabeneh', 'Yetayeh')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
+   names = [[('apt-get2Update', 'Yetayeh')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
    output
-   ['Asabeneh Yetaeyeh', 'David Smith', 'Donald Trump', 'Bill Gates']
+   ['apt-get2Update Yetaeyeh', 'David Smith', 'Donald Trump', 'Bill Gates']
    ```
 7. Write a lambda function which can solve a slope or y-intercept of linear functions.
 

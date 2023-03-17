@@ -1,15 +1,15 @@
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Asabeneh/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme28-30.md) 
+🧳 [Part 1: Day 1 - 3](  https://github.com/apt-get2Update/Learn-python-100)  
+🧳 [Part 2: Day 4 - 6](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme4-6.md)  
+🧳 [Part 3: Day 7 - 9](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme7-9.md)  
+🧳 [Part 4: Day 10 - 12](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme10-12.md)  
+🧳 [Part 5: Day 13 - 15](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme13-15.md)  
+🧳 [Part 6: Day 16 - 18](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme16-18.md)  
+🧳 [Part 7: Day 19 - 21](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme19-21.md)  
+🧳 [Part 8: Day 22 - 24](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme22-24.md)  
+🧳 [Part 9: Day 25 - 27](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme25-27.md)  
+🧳 [Part 10: Day 28 - 30](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme28-30.md) 
 
 ---
 
@@ -253,7 +253,7 @@ A collection of one or more characters under a single or double quote. If a stri
 **Example:**
 
 ```py
-'Asabeneh'
+'apt-get2Update'
 'Finland'
 'Python'
 'I love teaching'
@@ -289,7 +289,7 @@ A python dictionary object is an unordered collection of data in a key:value pai
 **Example:**
 
 ```py
-{'name':'Asabeneh', 'country':'Finland', age:250, 'is_married':True}
+{'name':'apt-get2Update', 'country':'Finland', age:250, 'is_married':True}
 ```
 
 #### Tuple
@@ -299,7 +299,7 @@ A tuple is an ordered collection of different data types like list but tuples ca
 **Example**
 
 ```py
-('Asabeneh', 'Brook', 'Abraham', 'Lidiya')
+('apt-get2Update', 'Brook', 'Abraham', 'Lidiya')
 ```
 
 #### Set
@@ -342,9 +342,9 @@ print(3 // 2)            # Floor division operator(//)
 print(type(10))          # Int
 print(type(3.14))        # Float
 print(type(1 + 3j))      # Complex number
-print(type('Asabeneh'))  # String
+print(type('apt-get2Update'))  # String
 print(type([1, 2, 3]))   # List
-print(type({'name':'Asabeneh'})) # Dictionary
+print(type({'name':'apt-get2Update'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 ```
@@ -374,7 +374,7 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
    - 9.8
    - 3.14
    - 4 - 4j
-   - ['Asabeneh', 'Python', 'Finland']
+   - ['apt-get2Update', 'Python', 'Finland']
    - Your name
    - Your family name
    - Your country
@@ -449,7 +449,7 @@ _Example:_
 ```py
 # Variables in Python
 
-first_name = 'Asabeneh'
+first_name = 'apt-get2Update'
 last_name = 'Yetayeh'
 country = 'Finland'
 city = 'Helsinki'
@@ -457,7 +457,7 @@ age = 250
 is_married = True
 skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
 person_info = {
-   'firstname':'Asabeneh',
+   'firstname':'apt-get2Update',
    'lastname':'Yetayeh',
    'country':'Finland',
    'city':'Helsinki'
@@ -498,7 +498,7 @@ Variable can also be declared in one line:
 **Example:**
 
 ```py
-first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
+first_name, last_name, country, age, is_married = 'apt-get2Update', 'Yetayeh', 'Helsink', 250, True
 
 print(first_name, last_name, country, age, is_married)
 print('First name:', first_name)
@@ -532,21 +532,21 @@ There are several data types in python. To identify the data type we use the _ty
 # Different python data types
 # Let's declare different data types
 
-first_name = 'Asabeneh'     # str
+first_name = 'apt-get2Update'     # str
 last_name = 'Yetayeh'       # str
 country = 'Finland'         # str
 city= 'Helsinki'            # str
 age = 250                   # int, it is not my real age, don't worry about it
 
 # Printing out types
-print(type('Asabeneh'))     # str
+print(type('apt-get2Update'))     # str
 print(type(first_name))     # str
 print(type(10))             # int
 print(type(3.14))           # float
 print(type(1 + 1j))         # complex
 print(type(True))           # bool
 print(type([1, 2,3,4]))     # list
-print(type({'name':'Asabeneh','age':250, 'is_married':250}))    # dict
+print(type({'name':'apt-get2Update','age':250, 'is_married':250}))    # dict
 print(type((1,2)))                                              # tuple
 print(type(zip([1,2],[3,4])))                                   # set
 ```
@@ -580,9 +580,9 @@ print('num_int', int(num_str))      # 10
 print('num_float', float(num_str))  # 10.6
 
 # str to list
-first = 'Asabeneh'
+first = 'apt-get2Update'
 print(first_name)
-print(first_name)                    # 'Asabeneh'
+print(first_name)                    # 'apt-get2Update'
 first_name_to_list = list(first_name)
 print(first_name_to_list)            # ['A', 's', 'a', 'b', 'e', 'n', 'e', 'h']
 ```
@@ -825,8 +825,8 @@ In addition to the above comparison operator python uses:
 ```py
 print('1 is 1', 1 is 1)                   # True - because the data values are the same
 print('1 is not 2', 1 is not 2)           # True - because 1 is not 2
-print('A in Asabeneh', 'A' in 'Asabeneh') # True - A found in the string
-print('B in Asabeneh', 'B' in 'Asabeneh') # False -there is no uppercase B
+print('A in apt-get2Update', 'A' in 'apt-get2Update') # True - A found in the string
+print('B in apt-get2Update', 'B' in 'apt-get2Update') # False -there is no uppercase B
 print('coding' in 'coding for all') # True - because coding for all has the word coding
 print('a in an:', 'a' in 'an')      # True
 print('4 is 2 ** 2:', 4 is 2 **2)   # True
@@ -914,4 +914,4 @@ You lived 3153600000 seconds.
 5 1 5 25 125
 ```
 
-[Part 2 >>](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme4-6.md)
+[Part 2 >>](  https://github.com/apt-get2Update/Learn-python-100/blob/master/readme4-6.md)

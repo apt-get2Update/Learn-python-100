@@ -241,7 +241,7 @@ Enter number two: 3
    
 ```py
         person={
-    'first_name': 'Asabeneh',
+    'first_name': 'apt-get2Update',
     'last_name': 'Yetayeh',
     'age': 250,
     'country': 'Finland',
@@ -260,7 +260,7 @@ Enter number two: 3
      * If the person is married and if he lives in Finland, print the information in the following format:
 
 ```py
-    Asabeneh Yetayeh lives in Finland. He is married.
+    apt-get2Update Yetayeh lives in Finland. He is married.
 ```
 
 🎉 CONGRATULATIONS ! 🎉
