@@ -1,36 +1,18 @@
 <div align="center">
-  <h1>   Learn Python: Day 17 - Exception Handling </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/apt-get2Update/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/apt-get2Update">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/apt-get2Update?style=social">
-  </a>
 
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/apt-get2Update/" target="_blank">apt-get2Update Yetayeh</a><br>
-  <small> Second Edition: July, 2021</small>
-  </sub>
-</div>
-
-[<< Day 16](../16_Day_Python_date_time/16_python_datetime.md) | [Day 18 >>](../18_Day_Regular_expressions/18_regular_expressions.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-- [📘 Day 17](#-day-17)
   - [Exception Handling](#exception-handling)
   - [Packing and Unpacking Arguments in Python](#packing-and-unpacking-arguments-in-python)
     - [Unpacking](#unpacking)
-      - [Unpacking Lists](#unpacking-lists)
-      - [Unpacking Dictionaries](#unpacking-dictionaries)
+    - [Unpacking Lists](#unpacking-lists)
+    - [Unpacking Dictionaries](#unpacking-dictionaries)
     - [Packing](#packing)
     - [Packing Lists](#packing-lists)
-      - [Packing Dictionaries](#packing-dictionaries)
+    - [Packing Dictionaries](#packing-dictionaries)
   - [Spreading in Python](#spreading-in-python)
   - [Enumerate](#enumerate)
   - [Zip](#zip)
-  - [Exercises: Day 17](#exercises-day-17)
+  - [Exercises: ](#exercises-day-17)
 
-# 📘 Day 17
 
 ## Exception Handling
 
@@ -295,10 +277,8 @@ print(fruits_and_veges)
 
 🌕 You are determined. You are 17 steps a head to your way to greatness. Now do some exercises for your brain and muscles.
 
-## Exercises: Day 17
+## Exercises: 
 
 1. names = ['Finland', 'Sweden', 'Norway','Denmark','Iceland', 'Estonia','Russia']. Unpack the first five countries and store them in a variable nordic_countries, store Estonia and Russia in es, and ru respectively.
 
 🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 16](../16_Day_Python_date_time/16_python_datetime.md) | [Day 18 >>](../18_Day_Regular_expressions/18_regular_expressions.md)

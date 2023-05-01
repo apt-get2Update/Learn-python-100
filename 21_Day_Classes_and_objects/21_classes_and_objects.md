@@ -1,24 +1,9 @@
 <div align="center">
   <h1>   Learn Python: Day 21 - Classes and Objects</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/apt-get2Update/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/apt-get2Update">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/apt-get2Update?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/apt-get2Update/" target="_blank">apt-get2Update Yetayeh</a><br>
-<small>Second Edition: July, 2021</small>
-</sub>
-
 </div>
 
-[<< Day 20](../20_Day_Python_package_manager/20_python_package_manager.md) | [Day 22 >>](../22_Day_Web_scraping/22_web_scraping.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Day 21](#-day-21)
   - [Classes and Objects](#classes-and-objects)
     - [Creating a Class](#creating-a-class)
     - [Creating an Object](#creating-an-object)
@@ -33,7 +18,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 21
+
 
 ## Classes and Objects
 
@@ -320,7 +305,7 @@ We can use super() built-in function or the parent name Person to automatically 
 
 🌕 Now, you are fully charged with a super power of programming.  Now do some exercises for your brain and muscles.
 
-## 💻 Exercises: Day 21
+
 
 ### Exercises: Level 1
 
@@ -362,9 +347,3 @@ Frequency Distribution: [(20.0, 26), (16.0, 27), (12.0, 32), (8.0, 37), (8.0, 34
 
 1. Create a class called PersonAccount. It has firstname, lastname, incomes, expenses properties and it has total_income, total_expense, account_info, add_income, add_expense and account_balance methods. Incomes is a set of incomes and its description. The same goes for expenses.
 
-### Exercises: Level 3
-
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 20](../20_Day_Python_package_manager/20_python_package_manager.md) | [Day 22 >>](../22_Day_Web_scraping/22_web_scraping.md)

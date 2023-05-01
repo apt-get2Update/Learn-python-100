@@ -1,15 +1,8 @@
 <div align="center">
-  <h1>   Learn Python: Day 12 - Modules </h1>
-   
-
-</div>
+  <h1>   Learn Python: Modules </h1>   
 </div>
 
-[<< Day 11](../11_Day_Functions/11_functions.md) | [Day 13>>](../13_Day_List_comprehension/13_list_comprehension.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 12](#-day-12)
   - [Modules](#modules)
     - [What is a Module](#what-is-a-module)
     - [Creating a Module](#creating-a-module)
@@ -28,7 +21,7 @@
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 12
+
 
 ## Modules
 

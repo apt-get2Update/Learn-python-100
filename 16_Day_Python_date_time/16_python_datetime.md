@@ -1,23 +1,7 @@
 <div align="center">
-  <h1>   Learn Python: Day 16 - Python Date time </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/apt-get2Update/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/apt-get2Update">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/apt-get2Update?style=social">
-  </a>
-
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/apt-get2Update/" target="_blank">apt-get2Update Yetayeh</a><br>
-  <small>Second Edition: July, 2021</small>
-  </sub>
-
+  <h1>   Learn Python: - Python Date time </h1>
 </div>
 
-[<< Day 15](../15_Day_Python_type_errors/15_python_type_errors.md) | [Day 17 >>](../17_Day_Exception_handling/17_exception_handling.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-- [📘 Day 16](#-day-16)
   - [Python *datetime*](#python-datetime)
     - [Getting *datetime* Information](#getting-datetime-information)
     - [Formatting Date Output Using *strftime*](#formatting-date-output-using-strftime)
@@ -26,8 +10,8 @@
     - [Time Objects to Represent Time](#time-objects-to-represent-time)
     - [Difference Between Two Points in Time Using](#difference-between-two-points-in-time-using)
     - [Difference Between Two Points in Time Using *timedelata*](#difference-between-two-points-in-time-using-timedelata)
-  - [💻 Exercises: Day 16](#-exercises-day-16)
-# 📘 Day 16
+  - [💻 Exercises: ](#-exercises-day-16)
+
 
 ## Python *datetime*
 
@@ -191,7 +175,7 @@ print("t3 =", t3)
 
 🌕 You are an extraordinary. You are 16 steps a head to your way to greatness. Now do some exercises for your brain and muscles.
 
-## 💻 Exercises: Day 16
+## 💻 Exercises: 
 
 1. Get the current day, month, year, hour, minute and timestamp from datetime module
 1. Format the current date using this format: "%m/%d/%Y, %H:%M:%S")
@@ -204,5 +188,3 @@ print("t3 =", t3)
    - Adding posts on a blog 
 
 🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 15](../15_Day_Python_type_errors/15_python_type_errors.md) | [Day 17 >>](../17_Day_Exception_handling/17_exception_handling.md)

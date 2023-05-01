@@ -1,14 +1,9 @@
 <div align="center">
-  <h1>   Learn Python: Day 8 - Dictionaries</h1>
+  <h1>   Learn Python: - Dictionaries</h1>
    
 
 </div>
 
-[<< Day 7 ](../07_Day_Sets/07_sets.md) | [Day 9 >>](../09_Day_Conditionals/09_conditionals.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 8](#-day-8)
   - [Dictionaries](#dictionaries)
     - [Creating a Dictionary](#creating-a-dictionary)
     - [Dictionary Length](#dictionary-length)
@@ -25,7 +20,6 @@
     - [Getting Dictionary Values as a List](#getting-dictionary-values-as-a-list)
   - [💻 Exercises: Day 8](#-exercises-day-8)
 
-# 📘 Day 8
 
 ## Dictionaries
 
@@ -311,9 +305,9 @@ values = dct.values()
 print(values)     # dict_values(['value1', 'value2', 'value3', 'value4'])
 ```
 
-🌕 You are astonishing. Now, you are super charged with the power of dictionaries. You have just completed day 8 challenges and you are 8 steps a head in to your way to greatness. Now do some exercises for your brain and  muscles.
+🌕 You are astonishing. Now, you are super charged with the power of dictionaries. You have just completed  challenges and you are 8 steps a head in to your way to greatness. Now do some exercises for your brain and  muscles.
 
-## 💻 Exercises: Day 8
+## 💻 Exercises: 
 
 1. Create  an empty dictionary called dog
 2. Add name, color, breed, legs, age to the dog dictionary
@@ -328,5 +322,3 @@ print(values)     # dict_values(['value1', 'value2', 'value3', 'value4'])
 11. Delete one of the dictionaries
 
 🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 7 ](../07_Day_Sets/07_sets.md) | [Day 9 >>](../09_Day_Conditionals/09_conditionals.md)

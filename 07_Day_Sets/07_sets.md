@@ -1,14 +1,9 @@
 <div align="center">
-  <h1> Learn Python: Day 7 - Sets</h1>
+  <h1> Learn Python: - Sets</h1>
  
 
 </div>
 
-[<< Day 6](../06_Day_Tuples/06_tuples.md) | [Day 8 >>](../08_Day_Dictionaries/08_dictionaries.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 7](#-day-7)
   - [Sets](#sets)
     - [Creating a Set](#creating-a-set)
     - [Getting Set's Length](#getting-sets-length)
@@ -25,12 +20,12 @@
     - [Checking the Difference Between Two Sets](#checking-the-difference-between-two-sets)
     - [Finding Symmetric Difference Between Two Sets](#finding-symmetric-difference-between-two-sets)
     - [Joining Sets](#joining-sets-1)
-  - [💻 Exercises: Day 7](#-exercises-day-7)
+  - [💻 Exercises:](#-exercises-day-7)
     - [Exercises: Level 1](#exercises-level-1)
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 7
+
 
 ## Sets
 
@@ -381,9 +376,9 @@ dragon = {'d', 'r', 'a', 'g', 'o','n'}
 python.isdisjoint(dragon)  # False, there are common items {'o', 'n'}
 ```
 
-🌕 You are a rising star . You have just completed day 7 challenges and you are 7 steps ahead in to your way to greatness. Now do some exercises for your brain and muscles.
+🌕 You are a rising star . You have just completed d challenges. Now do some exercises for your brain and muscles.
 
-## 💻 Exercises: Day 7
+## 💻 Exercises:
 
 ```py
 # sets
@@ -419,5 +414,3 @@ age = [22, 19, 24, 25, 26, 24, 25, 24]
 
 
 🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 6](../06_Day_Tuples/06_tuples.md) | [Day 8 >>](../08_Day_Dictionaries/08_dictionaries.md)

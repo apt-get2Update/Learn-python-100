@@ -1,24 +1,7 @@
 <div align="center">
-  <h1> Learn Python: Day 5 - Lists</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/apt-get2Update/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/apt-get2Update">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/apt-get2Update?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/apt-get2Update/" target="_blank">apt-get2Update Yetayeh</a><br>
-<small> Second Edition: July - 2021</small>
-</sub>
-
+  <h1> Learn Python - Lists</h1>
 </div>
 
-[<< Day 4](../04_Day_Strings/04_strings.md) | [Day 6 >>](../06_Day_Tuples/06_tuples.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [Day 5](#day-5)
   - [Lists](#lists)
     - [How to Create a List](#how-to-create-a-list)
     - [Accessing List Items Using Positive Indexing](#accessing-list-items-using-positive-indexing)
@@ -39,11 +22,11 @@
     - [Finding Index of an Item](#finding-index-of-an-item)
     - [Reversing a List](#reversing-a-list)
     - [Sorting List Items](#sorting-list-items)
-  - [💻 Exercises: Day 5](#-exercises-day-5)
+  - [💻 Exercises: ](#-exercises-day-5)
     - [Exercises: Level 1](#exercises-level-1)
     - [Exercises: Level 2](#exercises-level-2)
 
-# Day 5
+
 
 ## Lists
 
@@ -62,8 +45,6 @@ In Python we can create lists in two ways:
 
 - Using list built-in function
 
-```py
-# syntax
 lst = list()
 ```
 
@@ -524,9 +505,9 @@ To sort lists we can use _sort()_ method or _sorted()_ built-in functions. The _
   print(fruits)     # ['orange', 'mango', 'lemon', 'banana']
   ```
 
-🌕 You are diligent and you have already achieved quite a lot. You have just completed day 5 challenges and you are 5 steps a head in to your way to greatness. Now do some exercises for your brain and muscles.
 
-## 💻 Exercises: Day 5
+
+## 💻 Exercises: 
 
 ### Exercises: Level 1
 
@@ -584,5 +565,3 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 1. ['China', 'Russia', 'USA', 'Finland', 'Sweden', 'Norway', 'Denmark']. Unpack the first three countries and the rest as scandic countries.
 
 🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 4](../04_Day_Strings/04_strings.md) | [Day 6 >>](../06_Day_Tuples/06_tuples.md)
